@@ -1,0 +1,4 @@
+[core]
+    remote = data
+['remote "data"']
+    url = s3://duploservices-dataops-v2-t-bucket-979105248912/test-udops

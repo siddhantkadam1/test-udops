@@ -1,5 +1,5 @@
 outs:
-- md5: d751713988987e9331980363e24189ce.dir
-  size: 0
-  nfiles: 0
+- md5: aa45e8c5655ee7f512a8b706c7d59c8f.dir
+  size: 12
+  nfiles: 1
   path: dzprom
